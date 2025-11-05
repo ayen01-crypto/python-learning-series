@@ -1,0 +1,36 @@
+# Custom ORM Framework Requirements
+
+# Core dependencies
+sqlite3
+
+# Data serialization
+json
+
+# Testing
+pytest>=6.2.0
+
+# Development tools
+black>=21.0.0
+flake8>=3.9.0
+mypy>=0.910
+
+# Optional dependencies for extended functionality
+
+# For enhanced database support
+# psycopg2>=2.9.0  # PostgreSQL
+# PyMySQL>=1.0.0   # MySQL
+
+# For connection pooling
+# sqlalchemy>=1.4.0
+
+# For enhanced logging
+# loguru>=0.5.0
+
+# For configuration management
+# pyyaml>=5.4.0
+
+# For type checking
+# typing-extensions>=3.10.0
+
+# For performance monitoring
+# memory-profiler>=0.58.0
