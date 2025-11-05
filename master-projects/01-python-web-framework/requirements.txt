@@ -1,0 +1,43 @@
+# Python Web Framework Requirements
+
+# Core dependencies (part of Python standard library)
+# json
+# re
+# threading
+# urllib
+# hashlib
+# secrets
+# mimetypes
+# enum
+# time
+# uuid
+# os
+# io
+# gzip
+
+# Optional dependencies for extended functionality
+# Uncomment the following lines if you want to use these features:
+
+# For database integration
+# sqlite3
+
+# For advanced templating
+# jinja2
+
+# For testing
+# pytest
+
+# For development tools
+# black  # Code formatting
+# flake8  # Code linting
+# mypy  # Type checking
+
+# For production deployment
+# gunicorn  # WSGI server
+# uvicorn  # ASGI server
+
+# For async support
+# asyncio
+
+# For advanced security features
+# cryptography
